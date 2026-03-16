@@ -1,0 +1,12 @@
+{
+  "name": "icloud-sync",
+  "version": "1.0.0",
+  "description": "iCloud authentication service",
+  "main": "index.js",
+  "scripts": {
+    "vercel-build": "echo 'Building...'"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
